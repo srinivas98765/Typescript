@@ -17,3 +17,4 @@ hero=trr()
   loginuser("wssd","das");
   console.log(signUpUser);
   console.log(loginuser);
+protected members accessible in the class and inherited class
